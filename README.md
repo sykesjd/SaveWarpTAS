@@ -7,11 +7,12 @@ As I am a novice TASer, and given how the pain of TASing save warping incentiviz
 ## Completed
 
 - Half-Life: Blue Shift [5:59.679]
+- Half-Life: Opposing Force [5:10.616]
 
 ## In progress
 
-- Half-Life: Opposing Force (routing complete; TAS work still on of1a1 as of this writing)
+_nothing in progress_
 
 ## Not started
 
-- Gunman Chronicles (route not made yet as of this writing)
+- Gunman Chronicles (routing completed)
