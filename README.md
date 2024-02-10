@@ -8,11 +8,5 @@ As I am a novice TASer, and given how the pain of TASing save warping incentiviz
 
 - Half-Life: Blue Shift [5:59.679]
 - Half-Life: Opposing Force [5:10.616]
+- Gunman Chronicles [5:53.849]
 
-## In progress
-
-_nothing in progress_
-
-## Not started
-
-- Gunman Chronicles (routing completed)

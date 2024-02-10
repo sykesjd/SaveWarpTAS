@@ -425,7 +425,7 @@ s03----c--|------|------|0.001|90|-|219
 ----------|------|------|0.001|-|-|27
 s03l-D-c--|------|------|0.001|-28.790403|-|130
 s03l-D-c--|------|------|0.001|-54.807796|-|286
-// Save purposefully make with velocity to make destination segment shorter
+// Save purposefully made with velocity to make destination segment shorter
 ----------|------|------|0.001|-|-|1|save 31main;load 2223;w 25;load 2322;w 25
 ----------|------|------|0.001|-|-|27
 ----------|------|------|0.001|-|-|1|save 2322;exec 23warp.cfg
